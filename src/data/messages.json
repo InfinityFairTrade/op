@@ -1,0 +1,42 @@
+{
+  "messages": {
+    "en": {
+      "HELP_MESSAGE": "Usage: op [options] [file/directory]\nOptions:\n  -h        Show this help message\n  -v        Verbose mode\n  -d        Dry run mode\n  -a <app>  Open with a specific application\n  -s <pattern>  Search for a file pattern\n  --show-aliases  Show created aliases",
+      "INVALID_OPTION_MESSAGE": "Invalid option: -",
+      "OPENING_FILE_WITH_APP_MESSAGE": "Opening file",
+      "APP_NOT_FOUND_MESSAGE": "Application not found:",
+      "OPENING_FILE_WITH_DEFAULT_APP_MESSAGE": "Opening file with default application:",
+      "NO_DEFAULT_OPEN_COMMAND_MESSAGE": "No default open command found.",
+      "OPENING_DIRECTORY_MESSAGE": "Opening directory:",
+      "OPENING_URL_MESSAGE": "Opening URL:",
+      "FILE_FOUND_MESSAGE": "File found:",
+      "NO_FILE_FOUND_MESSAGE": "No file found matching pattern:",
+      "INVALID_ARGUMENT_MESSAGE": "Argument is neither a file nor a directory nor a URL:",
+      "OPENING_CURRENT_DIRECTORY_MESSAGE": "Opening current directory with default application",
+      "ALIASES_MESSAGE": "Created aliases:",
+      "CONFIGURE_DEFAULT_APPS_MESSAGE": "Configure default applications for file types:",
+      "ENTER_DEFAULT_APP_FOR_TXT": "Enter default application for .txt files:",
+      "ENTER_DEFAULT_APP_FOR_PDF": "Enter default application for .pdf files:",
+      "ENTER_DEFAULT_APP_FOR_DOC": "Enter default application for .doc files:"
+    },
+    "fr": {
+      "HELP_MESSAGE": "Usage: op [options] [file/directory]\nOptions:\n  -h        Affiche ce message d'aide\n  -v        Mode verbeux\n  -d        Mode dry run\n  -a <app>  Ouvrir avec une application spécifique\n  -s <pattern>  Rechercher un fichier selon un pattern\n  --show-aliases  Afficher les alias créés",
+      "INVALID_OPTION_MESSAGE": "Option invalide: -",
+      "OPENING_FILE_WITH_APP_MESSAGE": "Ouverture du fichier",
+      "APP_NOT_FOUND_MESSAGE": "Application non trouvée:",
+      "OPENING_FILE_WITH_DEFAULT_APP_MESSAGE": "Ouverture du fichier avec l'application par défaut:",
+      "NO_DEFAULT_OPEN_COMMAND_MESSAGE": "Aucune commande d'ouverture par défaut trouvée.",
+      "OPENING_DIRECTORY_MESSAGE": "Ouverture du dossier:",
+      "OPENING_URL_MESSAGE": "Ouverture de l'URL:",
+      "FILE_FOUND_MESSAGE": "Fichier trouvé:",
+      "NO_FILE_FOUND_MESSAGE": "Aucun fichier trouvé correspondant au pattern:",
+      "INVALID_ARGUMENT_MESSAGE": "L'argument n'est ni un fichier ni un dossier ni une URL:",
+      "OPENING_CURRENT_DIRECTORY_MESSAGE": "Ouverture du répertoire courant avec l'application par défaut",
+      "ALIASES_MESSAGE": "Alias créés:",
+      "CONFIGURE_DEFAULT_APPS_MESSAGE": "Configurer les applications par défaut pour les types de fichiers:",
+      "ENTER_DEFAULT_APP_FOR_TXT": "Entrez l'application par défaut pour les fichiers .txt:",
+      "ENTER_DEFAULT_APP_FOR_PDF": "Entrez l'application par défaut pour les fichiers .pdf:",
+      "ENTER_DEFAULT_APP_FOR_DOC": "Entrez l'application par défaut pour les fichiers .doc:"
+    }
+  }
+}
